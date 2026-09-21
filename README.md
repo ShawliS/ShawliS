@@ -1,5 +1,11 @@
-## Hi there 👋
+👋 Hi, I'm Shawli
 
+🎓 CSE Graduate-2026
+💻 Currently learning Python, SQL & Web Development
+🤖 Interested in AI & Software Development
+🚀 Building projects and improving my technical skills
+📚 Always learning and exploring new technologies
+⚡ Fun fact: I enjoy turning ideas into projects!
 <!--
 **ShawliS/ShawliS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
